@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\El Club de la Pelea\El Club de la Pelea\bin\Debug\El Club de la Pelea.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\El Club de la Pelea\El Club de la Pelea\bin\Debug\El Club de la Pelea.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\El Club de la Pelea\El Club de la Pelea\bin\Debug\El Club de la Pelea.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\El Club de la Pelea\El Club de la Pelea\obj\Debug\El Club de la Pelea.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\El Club de la Pelea\El Club de la Pelea\obj\Debug\El Club de la Pelea.pdb
