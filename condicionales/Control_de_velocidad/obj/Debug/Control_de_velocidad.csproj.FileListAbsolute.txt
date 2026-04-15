@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_de_velocidad\Control_de_velocidad\bin\Debug\Control_de_velocidad.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_de_velocidad\Control_de_velocidad\bin\Debug\Control_de_velocidad.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_de_velocidad\Control_de_velocidad\bin\Debug\Control_de_velocidad.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_de_velocidad\Control_de_velocidad\obj\Debug\Control_de_velocidad.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_de_velocidad\Control_de_velocidad\obj\Debug\Control_de_velocidad.pdb
