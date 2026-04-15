@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Par o Impar\Par o Impar\bin\Debug\Par o Impar.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Par o Impar\Par o Impar\bin\Debug\Par o Impar.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Par o Impar\Par o Impar\bin\Debug\Par o Impar.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Par o Impar\Par o Impar\obj\Debug\Par o Impar.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Par o Impar\Par o Impar\obj\Debug\Par o Impar.pdb
