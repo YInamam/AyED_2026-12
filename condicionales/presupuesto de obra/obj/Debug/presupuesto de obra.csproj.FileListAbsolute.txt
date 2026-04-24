@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\presupuesto de obra\presupuesto de obra\bin\Debug\presupuesto de obra.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\presupuesto de obra\presupuesto de obra\bin\Debug\presupuesto de obra.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\presupuesto de obra\presupuesto de obra\bin\Debug\presupuesto de obra.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\presupuesto de obra\presupuesto de obra\obj\Debug\presupuesto de obra.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\presupuesto de obra\presupuesto de obra\obj\Debug\presupuesto de obra.pdb
