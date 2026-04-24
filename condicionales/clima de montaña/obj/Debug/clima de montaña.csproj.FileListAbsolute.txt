@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\clima de montaña\clima de montaña\bin\Debug\clima de montaña.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\clima de montaña\clima de montaña\bin\Debug\clima de montaña.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\clima de montaña\clima de montaña\bin\Debug\clima de montaña.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\clima de montaña\clima de montaña\obj\Debug\clima de montaña.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\clima de montaña\clima de montaña\obj\Debug\clima de montaña.pdb
