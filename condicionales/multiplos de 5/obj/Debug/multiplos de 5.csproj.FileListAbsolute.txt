@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\multiplos de 5\multiplos de 5\bin\Debug\multiplos de 5.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\multiplos de 5\multiplos de 5\bin\Debug\multiplos de 5.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\multiplos de 5\multiplos de 5\bin\Debug\multiplos de 5.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\multiplos de 5\multiplos de 5\obj\Debug\multiplos de 5.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\multiplos de 5\multiplos de 5\obj\Debug\multiplos de 5.pdb
