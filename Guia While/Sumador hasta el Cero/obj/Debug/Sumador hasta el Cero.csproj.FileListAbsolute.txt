@@ -1,0 +1,6 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sumador hasta el Cero\Sumador hasta el Cero\bin\Debug\Sumador hasta el Cero.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sumador hasta el Cero\Sumador hasta el Cero\bin\Debug\Sumador hasta el Cero.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sumador hasta el Cero\Sumador hasta el Cero\bin\Debug\Sumador hasta el Cero.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sumador hasta el Cero\Sumador hasta el Cero\obj\Debug\Sumador hasta el Cero.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sumador hasta el Cero\Sumador hasta el Cero\obj\Debug\Sumador hasta el Cero.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sumador hasta el Cero\Sumador hasta el Cero\obj\Debug\Sumador hasta el Cero.pdb
