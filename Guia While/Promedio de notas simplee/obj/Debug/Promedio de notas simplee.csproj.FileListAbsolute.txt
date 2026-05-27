@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Promedio de notas simplee\Promedio de notas simplee\bin\Debug\Promedio de notas simplee.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Promedio de notas simplee\Promedio de notas simplee\bin\Debug\Promedio de notas simplee.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Promedio de notas simplee\Promedio de notas simplee\bin\Debug\Promedio de notas simplee.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Promedio de notas simplee\Promedio de notas simplee\obj\Debug\Promedio de notas simplee.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Promedio de notas simplee\Promedio de notas simplee\obj\Debug\Promedio de notas simplee.pdb
