@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\multiplicacion por sumas susesivas\multiplicacion por sumas susesivas\bin\Debug\multiplicacion por sumas susesivas.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\multiplicacion por sumas susesivas\multiplicacion por sumas susesivas\bin\Debug\multiplicacion por sumas susesivas.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\multiplicacion por sumas susesivas\multiplicacion por sumas susesivas\bin\Debug\multiplicacion por sumas susesivas.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\multiplicacion por sumas susesivas\multiplicacion por sumas susesivas\obj\Debug\multiplicacion por sumas susesivas.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\multiplicacion por sumas susesivas\multiplicacion por sumas susesivas\obj\Debug\multiplicacion por sumas susesivas.pdb
