@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\control de temperatura ambiente\control de temperatura ambiente\bin\Debug\control de temperatura ambiente.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\control de temperatura ambiente\control de temperatura ambiente\bin\Debug\control de temperatura ambiente.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\control de temperatura ambiente\control de temperatura ambiente\bin\Debug\control de temperatura ambiente.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\control de temperatura ambiente\control de temperatura ambiente\obj\Debug\control de temperatura ambiente.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\control de temperatura ambiente\control de temperatura ambiente\obj\Debug\control de temperatura ambiente.pdb
