@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sistema de login\Sistema de login\bin\Debug\Sistema de login.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sistema de login\Sistema de login\bin\Debug\Sistema de login.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sistema de login\Sistema de login\bin\Debug\Sistema de login.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sistema de login\Sistema de login\obj\Debug\Sistema de login.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sistema de login\Sistema de login\obj\Debug\Sistema de login.pdb
