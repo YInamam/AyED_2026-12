@@ -1,6 +1,0 @@
-c:\users\alumno.et37\documents\visual studio 2015\Projects\Caja registradora\Caja registradora\bin\Debug\Caja registradora.exe.config
-c:\users\alumno.et37\documents\visual studio 2015\Projects\Caja registradora\Caja registradora\bin\Debug\Caja registradora.exe
-c:\users\alumno.et37\documents\visual studio 2015\Projects\Caja registradora\Caja registradora\bin\Debug\Caja registradora.pdb
-c:\users\alumno.et37\documents\visual studio 2015\Projects\Caja registradora\Caja registradora\obj\Debug\Caja registradora.csprojResolveAssemblyReference.cache
-c:\users\alumno.et37\documents\visual studio 2015\Projects\Caja registradora\Caja registradora\obj\Debug\Caja registradora.exe
-c:\users\alumno.et37\documents\visual studio 2015\Projects\Caja registradora\Caja registradora\obj\Debug\Caja registradora.pdb
