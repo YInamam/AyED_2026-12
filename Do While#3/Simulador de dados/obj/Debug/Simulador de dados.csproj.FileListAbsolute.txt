@@ -1,0 +1,6 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Simulador de dados\Simulador de dados\bin\Debug\Simulador de dados.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Simulador de dados\Simulador de dados\bin\Debug\Simulador de dados.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Simulador de dados\Simulador de dados\bin\Debug\Simulador de dados.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Simulador de dados\Simulador de dados\obj\Debug\Simulador de dados.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Simulador de dados\Simulador de dados\obj\Debug\Simulador de dados.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Simulador de dados\Simulador de dados\obj\Debug\Simulador de dados.pdb
