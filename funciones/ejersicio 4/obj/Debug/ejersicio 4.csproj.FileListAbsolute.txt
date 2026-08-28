@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\ejersicio 4\ejersicio 4\bin\Debug\ejersicio 4.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\ejersicio 4\ejersicio 4\bin\Debug\ejersicio 4.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\ejersicio 4\ejersicio 4\bin\Debug\ejersicio 4.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\ejersicio 4\ejersicio 4\obj\Debug\ejersicio 4.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\ejersicio 4\ejersicio 4\obj\Debug\ejersicio 4.pdb
